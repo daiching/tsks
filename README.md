@@ -10,7 +10,7 @@ tsks is simple cli task management tool.
 - tsks flv : remove task before a specified day
 
 sub commands' help is displayed by next syntax.
-"tsks <sub commands> -h"
+`tsks <sub commands> -h`
 
 ## How to use (examples)
 - senario 1: add new task -> review task list -> finish the task -> review task list including deleted task
