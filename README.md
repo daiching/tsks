@@ -52,7 +52,7 @@ $ tsks ls -d t-1:t+1
  ``` bash
  $ tsks ls -d t-1:t+1
 # 2019-09-05
- [wip] 1. I work hardtsks ls -d t-1!
+ [wip] 1. I work hardtsks ls -d t-1
 # 2019-09-04
  [wip] 1. this is sample favorite task. (favoriteTask)
 # 2019-09-03
